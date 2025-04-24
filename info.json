@@ -1,0 +1,10 @@
+{
+    "name": "chens-waterfill-mod",
+    "version": "0.1.0",
+    "title": "Chens Waterfill Mod",
+    "author": "GeekieChen",
+    "dependencies": ["base >= 2.0.0"],
+    "description": "这个是我做的水域材料模组。",
+    "factorio_version": "2.0",
+    "license": "MIT"
+}
