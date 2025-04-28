@@ -1,6 +1,6 @@
 {
     "name": "chens-waterfill-mod",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "title": "Chens Waterfill Mod",
     "author": "GeekieChen",
     "dependencies": ["base >= 2.0.0"],

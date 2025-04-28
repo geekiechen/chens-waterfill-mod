@@ -24,7 +24,7 @@ data:extend({ -- 注册水域材料
         name = "waterfill",
         order = "a",
         category = "crafting",
-        ingredients = {{type = "item", name = "landfill", amount = 1}},
+        ingredients = {{type = "fluid", name = "water", amount = 200}},
         results = {{type = "item", name = "waterfill", amount = 1}},
         main_product = "waterfill",
         enabled = false
